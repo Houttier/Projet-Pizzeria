@@ -1,1 +1,1 @@
-Projet pour une pizzeria
+Essai site vitrine Pizzeria - Semaine 1
